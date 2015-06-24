@@ -1,9 +1,15 @@
-
-
 .navbar-static-top {
   margin-bottom: 19px;
 }
 
 body {
 	font-family: 'Russo One', sans-serif;
+}
+
+p {
+	font-family: 'Droid Sans', 'Russo One', sans-serif;
+}
+
+.bloglist li {
+	font-family: 'Droid Sans', 'Russo One', sans-serif;
 }
