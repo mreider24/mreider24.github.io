@@ -117,10 +117,10 @@ p {
   background-color: #36a41e;
 }
 
-.footer {
-  background-color: #3cd521;
+.jumbotron h1 {
+	padding: 10px;
 }
 
-.footer a {
-  color: #ffffff;
+.jumbotron p {
+	padding: 10px;
 }
