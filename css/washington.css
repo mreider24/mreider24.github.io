@@ -7,6 +7,7 @@
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
   color: #773141;
+  background-color: #ffb612;
 }
 .navbar-default .navbar-text {
   color: #ffb612;
@@ -16,6 +17,7 @@
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #773141;
+  background-color: #ffb612;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu {
   background-color: #773141;
@@ -70,4 +72,17 @@
     color: #773141;
     background-color: #ffb612;
   }
+}
+
+.dropdown-menu .active a {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.footer {
+  background-color: #773141;
+}
+
+.footer a {
+  color: #ffb612;
 }

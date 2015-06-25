@@ -46,3 +46,11 @@ img {
 .list-inline {
 	padding-top: 1.25em;
 }
+
+.footer {
+  background-color: #3cd521;
+}
+
+.footer a {
+  color: #ffffff;
+}
