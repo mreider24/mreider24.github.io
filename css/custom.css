@@ -108,7 +108,7 @@ p {
 }
 
 .jumbotron {
-	background-color: #3cd521;
+	background: url(../img/footer_lodyas.png) repeat 0 0;
 	color: #ffffff;
 }
 
@@ -123,4 +123,12 @@ p {
 
 .jumbotron p {
 	padding: 10px;
+}
+
+body { 
+    background: url(../img/blizzard.png) repeat 0 0;
+}
+
+.see_through {
+  background: url(../img/blizzard.png) repeat 0 0;
 }
