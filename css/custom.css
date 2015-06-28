@@ -118,11 +118,11 @@ p {
 }
 
 .jumbotron h1 {
-	padding: 10px;
+	padding: 0px 10px;
 }
 
 .jumbotron p {
-	padding: 10px;
+	padding: 0px 10px;
 }
 
 body { 
