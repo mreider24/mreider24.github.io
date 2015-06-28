@@ -1,0 +1,12 @@
+.footer {
+  background-color: #3cd521;
+}
+
+.footer a {
+  color: #ffffff;
+  padding: .5em 1.5em;
+}
+
+.list-inline {
+	padding-top: 1.25em;
+}
