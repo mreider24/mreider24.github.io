@@ -8,6 +8,7 @@ body {
 
 p {
 	font-family: 'Droid Sans', 'Russo One', sans-serif;
+  font-size: 18px;
 }
 
 .bloglist li {
